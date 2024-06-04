@@ -10,7 +10,9 @@ The recommendation system, I have designed below is based on the journey of a ne
 The data sets are from
 
 Amazon product ratings by multipe users, Data Source: https://www.kaggle.com/skillsmuggler/amazon-ratings
+
 Home Depot products with descriptions, Data Source: https://www.kaggle.com/c/home-depot-product-search-relevance/data
+
 The recommendation system is designed in 3 parts based on the business context:
 
 When a new customer without any previous purchase history visits the e-commerce website for the first time, he/she is recommended the most popular products sold on the company's website. Once, he/she makes a purchase, the recommendation system updates and recommends other products based on the purchase history and ratings provided by other users on the website. The latter part is done using collaborative filtering techniques.
